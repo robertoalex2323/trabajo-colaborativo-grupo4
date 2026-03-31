@@ -1,0 +1,1 @@
+Sistema de seguridad simulado para la proteccion antirobos, utilizando arduinos. Especiamente en el uso de empresas, propiedades, granjas.
